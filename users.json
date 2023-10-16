@@ -1,0 +1,363 @@
+[
+    {
+        "id" : 1,
+        "name": "Sidhanth",
+        "age": 24,
+        "gender": "Male",
+        "position": "Frontend Developer", 
+        "username": "@sidpan",
+        "country": "India"
+    },
+    {
+        "id" : 2,
+        "name": "Kashish",
+        "age": 20,
+        "gender": "Female",
+        "position": "UI/UX Developer", 
+        "username": "@kashy",
+        "country": "India"
+    },
+    {
+        "id" : 3,
+        "name": "Varnit",
+        "age": 23,
+        "gender": "Male",
+        "position": "Frontend Developer", 
+        "username": "@varnit03",
+        "country": "India"
+    },
+    {
+        "id" : 4,
+        "name": "Harshul",
+        "age": 25,
+        "gender": "Male",
+        "position": "Frontend Developer", 
+        "username": "@harshul9",
+        "country": "India"
+    },
+    {
+        "id" : 5,
+        "name": "Vishal",
+        "age": 24,
+        "gender": "Male",
+        "position": "Data Analyst", 
+        "username": "@vishal",
+        "country": "India"
+    },
+    {
+        "id" : 6,
+        "name": "Ram",
+        "age": 28,
+        "gender": "Male",
+        "position": "Backend Developer", 
+        "username": "@ram20",
+        "country": "USA"
+    },
+    {
+        "id" : 7,
+        "name": "Kriti",
+        "age": 24,
+        "gender": "Female",
+        "position": "Content", 
+        "username": "@kritisanon",
+        "country": "Russia"
+    },
+    {
+        "id" : 8,
+        "name": "Sam Altman",
+        "age": 27,
+        "gender": "Male",
+        "position": "CEO", 
+        "username": "@sam",
+        "country": "USA"
+    },
+    {
+        "id" : 9,
+        "name": "Elon",
+        "age": 40,
+        "gender": "Male",
+        "position": "CEO", 
+        "username": "@musk",
+        "country": "USA"
+    },
+    {
+        "id" : 10,
+        "name": "Gaurav",
+        "age": 25,
+        "gender": "Male",
+        "position": "Delivery Manager", 
+        "username": "@gaurav6",
+        "country": "Canada"
+    },
+    {
+        "id" : 11,
+        "name": "Mark",
+        "age": 43,
+        "gender": "Male",
+        "position": "Founder", 
+        "username": "@zuck",
+        "country": "USA"
+    },
+    {
+        "id" : 12,
+        "name": "Bill Gates",
+        "age": 50,
+        "gender": "Male",
+        "position": "CEO", 
+        "username": "@gates",
+        "country": "USA"
+    },
+    {
+        "id" : 13,
+        "name": "Jeff Bezos",
+        "age": 48,
+        "gender": "Male",
+        "position": "Founder", 
+        "username": "@bezos",
+        "country": "USA"
+    },
+    {
+        "id" : 14,
+        "name": "Tim Cook",
+        "age": 47,
+        "gender": "Male",
+        "position": "CEO", 
+        "username": "@tim",
+        "country": "India"
+    },
+    {
+        "id" : 15,
+        "name": "Larry Page",
+        "age": 45,
+        "gender": "Male",
+        "position": "CTO", 
+        "username": "@larry_page",
+        "country": "USA"
+    },
+    {
+        "id" : 16,
+        "name": "Mukesh",
+        "age": 37,
+        "gender": "Male",
+        "position": "Manager", 
+        "username": "@reliance",
+        "country": "India"
+    },
+    {
+        "id" : 17,
+        "name": "Modi",
+        "age": 60,
+        "gender": "Male",
+        "position": "VC", 
+        "username": "@modi",
+        "country": "India"
+    },
+    {
+        "id" : 18,
+        "name": "Mary",
+        "age": 24,
+        "gender": "Female",
+        "position": "Writing", 
+        "username": "@mary",
+        "country": "Japan"
+    },
+    {
+        "id" : 19,
+        "name": "Troye",
+        "age": 26,
+        "gender": "Male",
+        "position": "Creative Head", 
+        "username": "@sivon",
+        "country": "India"
+    },
+    {
+        "id" : 20,
+        "name": "Doja",
+        "age": 21,
+        "gender": "Female",
+        "position": "Designer Head", 
+        "username": "@cat",
+        "country": "India"
+    },
+    {
+        "id" : 21,
+        "name": "The Weeknd",
+        "age": 29,
+        "gender": "Male",
+        "position": "Founder", 
+        "username": "@weeknd",
+        "country": "Canada"
+    },
+    {
+        "id" : 22,
+        "name": "Dead Mau5",
+        "age": 38,
+        "gender": "Male",
+        "position": "Musician", 
+        "username": "@mau5",
+        "country": "USA"
+    },
+    {
+        "id" : 23,
+        "name": "Rob",
+        "age": 29,
+        "gender": "Male",
+        "position": "Full Stack Developer", 
+        "username": "@rob",
+        "country": "India"
+    },
+    {
+        "id" : 24,
+        "name": "Sundar Pichai",
+        "age": 42,
+        "gender": "Male",
+        "position": "CEO", 
+        "username": "@sundarpichai",
+        "country": "USA"
+    },
+    {
+        "id" : 25,
+        "name": "Machine Gun Kelly",
+        "age": 27,
+        "gender": "Male",
+        "position": "Junior", 
+        "username": "@kelly",
+        "country": "India"
+    },
+    {
+        "id" : 26,
+        "name": "Heather",
+        "age": 35,
+        "gender": "Female",
+        "position": " Design Head", 
+        "username": "@heather",
+        "country": "Canada"
+    },
+    {
+        "id" : 27,
+        "name": "Kendrick",
+        "age": 30,
+        "gender": "Male",
+        "position": "Rapper", 
+        "username": "@klamar",
+        "country": "India"
+    },
+    {
+        "id" : 28,
+        "name": "Jay Sean",
+        "age": 38,
+        "gender": "Male",
+        "position": "Video Editor", 
+        "username": "@jay",
+        "country": "Japan"
+    },
+    {
+        "id" : 29,
+        "name": "Anirudh",
+        "age": 27,
+        "gender": "Male",
+        "position": "Intern", 
+        "username": "@anirudh",
+        "country": "India"
+    },
+    {
+        "id" : 30,
+        "name": "Hrithik",
+        "age": 22,
+        "gender": "Male",
+        "position": "Intern", 
+        "username": "@h34",
+        "country": "India"
+    },
+    {
+        "id" : 31,
+        "name": "Rani",
+        "age": 24,
+        "gender": "Female",
+        "position": "Backend Developer", 
+        "username": "@rani01",
+        "country": "India"
+    },
+    {
+        "id" : 32,
+        "name": "Kritika",
+        "age": 24,
+        "gender": "Female",
+        "position": "Social Marketing", 
+        "username": "@kr13",
+        "country": "India"
+    },
+    {
+        "id" : 33,
+        "name": "Nandu",
+        "age": 26,
+        "gender": "Male",
+        "position": "SEO", 
+        "username": "@nandu",
+        "country": "India"
+    },
+    {
+        "id" : 34,
+        "name": "Zyan Malik",
+        "age": 29,
+        "gender": "Male",
+        "position": "Sales", 
+        "username": "@zyan",
+        "country": "USA"
+    },
+    {
+        "id" : 35,
+        "name": "Taylor",
+        "age": 25,
+        "gender": "Female",
+        "position": "Full Stack Developer", 
+        "username": "@swift",
+        "country": "India"
+    },
+    {
+        "id" : 36,
+        "name": "Bahjat",
+        "age": 26,
+        "gender": "Male",
+        "position": "Performer", 
+        "username": "@bahjat",
+        "country": "Russia"
+    },
+    {
+        "id" : 37,
+        "name": "Kamlesh",
+        "age": 34,
+        "gender": "Male",
+        "position": "Senior Developer", 
+        "username": "@kamlesh",
+        "country": "India"
+    },
+    {
+        "id" : 38,
+        "name": "Sanjeev",
+        "age": 28,
+        "gender": "Male",
+        "position": "Sales", 
+        "username": "@sanju7",
+        "country": "India"
+    },
+    {
+        "id" : 39,
+        "name": "Bivek",
+        "age": 25,
+        "gender": "Male",
+        "position": "Salesforce Developer", 
+        "username": "@bivekD",
+        "country": "India"
+    },
+    {
+        "id" : 40,
+        "name": "Dua Lipa",
+        "age": 25,
+        "gender": "Female",
+        "position": "Content", 
+        "username": "@dua",
+        "country": "USA"   
+    }
+
+]
