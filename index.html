@@ -9,7 +9,13 @@
 <body>
     <div class="container">
         <h1>User Data</h1>
+        <div class="input">
+            <input type="search" id="search1" placeholder="Search by 'Name'" oninput="handleSearchByName()">
+            <input type="search" id="search2" placeholder="Search by 'Position'" oninput="handleSearchByPosition()">
+
+        </div>
         <table class="user-table">
+            <p class="error">No Data Found !</p>
             <thead>
                 <tr>
                     <th>S.No</th>
@@ -22,14 +28,7 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <!-- <td>1</td>
-                    <td>Sidhanth</td>
-                    <td>24</td>
-                    <td>Male</td>
-                    <td>Frontend developer</td>
-                    <td>@sidpan</td>
-                    <td>India</td> -->
+                <tr>  
                 </tr>
             </tbody>
         </table>

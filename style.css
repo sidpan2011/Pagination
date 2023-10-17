@@ -42,3 +42,21 @@ button {
     background-color: #1288ef;
     color: white;
 }
+.active{
+    background-color: #115fa3;
+}
+input[type=search]{
+    padding: 10px 20px;
+    border: 1px solid rgb(172, 172, 172);
+    border-radius: 4px;
+    margin: 0 10px;
+}
+input[type=search]::placeholder{
+    font-size: 1rem;
+    /* font-style: italic; */
+}
+.error{
+    display: none;
+    color: red;
+    font-size: 2rem;
+}
